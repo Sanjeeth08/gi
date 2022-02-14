@@ -1,0 +1,8 @@
+f\interceptor\ValidaLogin.class
+f\controller\HelloAction.class
+f\dao\UsuarioQueryHelper.class
+f\model\Usuario.class
+f\exceptions\UsuarioNAutorizado.class
+f\business\LoginService.class
+f\controller\LoginAction.class
+f\controller\BaseAction.class
